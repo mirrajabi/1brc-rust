@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 #
+# This file I yanked from someone else's project but I can't remember which one
+#
 #  Copyright 2023 The original authors
 #
 #  Licensed under the Apache License, Version 2.0 (the "License");

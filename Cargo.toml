@@ -11,5 +11,11 @@ debug = true
 memchr = "2.7.5"
 memmap2 = "0.9.7"
 rustc-hash = "2.1.1"
+tracy-client = "0.17.3"
 
 [dev-dependencies]
+
+[features]
+default = []
+enable-profiler = ["tracy-client/enable"]
+simd-index = []
